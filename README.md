@@ -1,6 +1,6 @@
 # Bitcoin price prediction with LSTM Model
 
-This repository features a simple LSTM model designed to predict the price of Bitcoin. Additionally, it includes a [Data analysis.ipynb](https://github.com/sy-122/LSTM_Predict_Bitcoin/blob/main/Data%20analysis.ipynb)) notebook that provides basic insights into the market and compares it with the S&P500 index. While the analysis is relatively simple, it offers a starting point for understanding the data.
+This repository features a simple LSTM model designed to predict the price of Bitcoin. Additionally, it includes a [Data analysis.ipynb](https://github.com/sy-122/LSTM_Predict_Bitcoin/blob/main/Data%20analysis.ipynb) notebook that provides basic insights into the market and compares it with the S&P500 index. While the analysis is relatively simple, it offers a starting point for understanding the data.
 
 Long Short-Term Memory (LSTM) is a specialized type of recurrent neural network (RNN) engineered to process and make predictions on sequential data, such as time series information. Unlike conventional feedforward neural networks, which analyze each input in isolation, LSTMs are equipped with loops that enable the retention of relevant information over time, thereby fostering a deeper understanding of temporal patterns. One of its greatest advantages lies in its ability to establish connections between past observations and the current task at hand.
 
