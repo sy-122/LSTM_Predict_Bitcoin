@@ -1,5 +1,7 @@
- This is a simple LSTM model that predicts the price of Bitcoin. 
- Long Short-Term Memory (LSTM) is a specialized type of recurrent neural network (RNN) engineered to process and make predictions on sequential data, such as time series information. Unlike conventional feedforward neural networks, which analyze each input in isolation, LSTMs are equipped with loops that enable the retention of relevant information over time, thereby fostering a deeper understanding of temporal patterns. One of its greatest advantages lies in its ability to establish connections between past observations and the current task at hand.
+# Bitcoin price prediction with LSTM Model
+
+This is a simple LSTM model that predicts the price of Bitcoin. 
+Long Short-Term Memory (LSTM) is a specialized type of recurrent neural network (RNN) engineered to process and make predictions on sequential data, such as time series information. Unlike conventional feedforward neural networks, which analyze each input in isolation, LSTMs are equipped with loops that enable the retention of relevant information over time, thereby fostering a deeper understanding of temporal patterns. One of its greatest advantages lies in its ability to establish connections between past observations and the current task at hand.
 
 The fundamental components of an LSTM unit encompass:
 - **Cell State**: This element functions as the memory reservoir of the network, enabling it to selectively retain or discard information across successive time steps.
