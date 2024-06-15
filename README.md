@@ -13,3 +13,9 @@ The fundamental components of an LSTM unit encompass:
 For a comprehensive elucidation of LSTM networks, I recommend perusing the following resource: [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah, which offers an insightful exploration of LSTM architecture and functionality.
 
 The code responsible for conducting predictions can be found in `model.py`, with its implementation drawing inspiration from the tutorial available at: [YouTube Tutorial on LSTM Time Series Prediction](https://www.youtube.com/watch?v=GFSiL6zEZF0).
+
+
+## Results of Prediction
+![image](https://github.com/sy-122/LSTM_Predict_Bitcoin/assets/61008330/746fb0c2-92f6-4d47-a7b7-e9bb4bca2d70)
+
+Next day Bitcoin price prediction: 52510.10 
